@@ -8,7 +8,7 @@ I have more 10 years experience in programming. Since 2017 I'm working with bloc
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [spread2009@gmail.com](mailto:spread2009@gmail.com)
-* 🧠  I'm learning UNITY
+* 🧠  I'm learning ZKP
 * 🤝  I'm open to collaborating on blockchain, IPFS, NFT, node.js
 * ⚡  I'm a chess player when I feel bored
 
